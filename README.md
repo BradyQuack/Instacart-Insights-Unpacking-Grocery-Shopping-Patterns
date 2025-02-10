@@ -1,1 +1,1 @@
-# Instacart-Insights-Unpacking-Grocery-Shopping-Patterns-with-Data-Science
+# Instacart Insights Unpacking Grocery Shopping Patterns with Data Science
