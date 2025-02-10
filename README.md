@@ -1,5 +1,5 @@
 # Instacart Insights Unpacking Grocery Shopping Patterns
-View project : https://github.com/BradyQuack/Instacart-Insights-Unpacking-Grocery-Shopping-Patterns-with-Data-Science/blob/main/InstacartFinal.ipynb
+View project : [Instacart Insights Unpacking Grocery Shopping Patterns](https://github.com/BradyQuack/Instacart-Insights-Unpacking-Grocery-Shopping-Patterns-with-Data-Science/blob/main/InstacartFinal.ipynb)
 ## Project description
 
 For this project, you’ll work with data from Instacart.
